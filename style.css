@@ -1,0 +1,23 @@
+body {
+    color: black;
+    background-color: #000000;
+    
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: aqua;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 2px 2px 4px #000000;
+}
+i {
+    font-style: italic;
+    color: blue;
+    text-align: center;
+    text-shadow: 1px 1px 2px aqua;
+}
+i:hover {
+    color: red;
+    text-shadow: 2px 2px 4px #000000;
+}
