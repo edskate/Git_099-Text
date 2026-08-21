@@ -15,7 +15,7 @@ i {
     font-style: italic;
     color: blue;
     text-align: center;
-    text-shadow: 1px 1px 2px aqua;
+    text-shadow: 1px 1px 1px aqua;
 }
 i:hover {
     color: red;
